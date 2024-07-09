@@ -1,0 +1,58 @@
+* {
+    color: white;
+}
+
+body {
+
+    background-color: limegreen;
+
+}
+
+#la {
+    background-color: green;
+    justify-content: center;
+    display: flex;
+}
+#pw{
+    width: 50px; height: 50px;
+}
+
+#po{
+    align-items: center;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.oi{
+    width: 100px;
+}
+
+.class{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 5px solid darkgreen;
+    float: left;
+    margin: 5px;
+    padding: 3px;
+}
+
+.notice{
+    border: 5px solid black;
+    padding: 3px;
+}
+
+#jua{
+    justify-content: space-around;
+    display: flex;
+}
+#ri{
+    border: 3px solid grey;
+}
+#pro{
+    display: flex;
+    gap: 50px;
+    border: 3px solid black;
+    padding: 4px;
+}
