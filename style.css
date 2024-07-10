@@ -14,7 +14,7 @@ body {
     display: flex;
 }
 #pw{
-    width: 50px; height: 50px;
+    width: 70px; height: 70px;
 }
 
 #po{
@@ -55,4 +55,63 @@ body {
     gap: 50px;
     border: 3px solid black;
     padding: 4px;
+    background-color: darkgreen;
+}
+
+#ResJogs{
+    display: flex;
+    gap: 50px;
+    width: 100%;
+
+
+}
+/* aqui é um comentário em css*/
+.ResJogs{
+    display: flex; 
+    gap: 5px;
+    align-items: top;
+    border: 3px solid black;
+    padding: 5px;
+    height: 53px;
+    align-items: center;
+    margin: 5px;
+    background-color: darkolivegreen;
+    border-radius: 10px;
+}
+.imgRes{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 10px
+}
+#imagem{
+    height: 225px;
+    width: auto;
+    border: 5px solid darkgreen;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 10px;
+}
+.ResJogs2{
+    display: flex; 
+    gap: 5px;
+    border: 3px solid black;
+    padding: 5px;
+    height: 53px;
+    align-items: center;
+    margin: 5px;
+    background-color: darkolivegreen;
+    border-radius: 10px;
+}
+#ResJogs2{
+    display: flex;
+    gap: 50px;
+    width: 100%;
+
+}
+#tudo{
+    display: flex;
+}
+#lala{
+    text-align: center;
 }
